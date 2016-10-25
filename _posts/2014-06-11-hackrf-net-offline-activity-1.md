@@ -19,17 +19,27 @@ duoshuo_thread_id:
 
 李尚远老师简要给大家介绍了通信系统的一些原理知识。给大家带来了《关于通信的三板斧》的精彩介绍。指出了“通信”主要是解决“通”和“信”的两个问题，并介绍了信道、基带和奈奎斯特采样定理。
 
-![]({{ site.imageurl }}/2014/06/779514447-e1402469795524.jpg"><img class="alignnone size-full wp-image-908" src="http://www.hackrf.net/wp-content/uploads/2014/06/779514447-e1402469795524.jpg" alt="779514447" width="1279" height="959" /></a> <a href="http://www.hackrf.net/wp-content/uploads/2014/06/114720478.jpg)
+![]({{ site.imageurl }}/2014/06/779514447-e1402469795524.jpg) 
+
+![]({{ site.imageurl }}/2014/06/114720478.jpg)
 
 <a href="http://sdr-x.github.io">焦现军老师(jxj)</a>给大家带来了关于TDD-LTE的话题，并现场演示了<a title="完整20MHz带宽LTE信号被HACKRF-20M采样率成功解析" href="http://sdr-x.github.io/%E5%AE%8C%E6%95%B420MHz%E5%B8%A6%E5%AE%BD%E9%85%8D%E7%BD%AELTE%E4%BF%A1%E5%8F%B7%E8%A2%ABHACKRF-19.2M%E9%87%87%E6%A0%B7%E7%8E%87%E6%88%90%E5%8A%9F%E8%A7%A3%E6%9E%90/">使用HackRF抓取TDD-LTE下行信号</a>，并对其进行分析。使用了3GPP提供的ASN.1解析工具，解析出了下行信道的参数信息。此时，来自运营商的晓冬老师和北大的彭老师冒雨赶来，正好加入讨论。并从<a href="http://sdr-x.github.io">焦老师</a>的实验结果中与现网的部署参数进行了比对，验证了解析出的TD-LTE信号信息的正确性。
 
-![]({{ site.imageurl }}/2014/06/446192333.jpg"><img class="alignnone size-full wp-image-911" src="http://www.hackrf.net/wp-content/uploads/2014/06/446192333.jpg" alt="446192333" width="1280" height="960" /></a> <a href="http://www.hackrf.net/wp-content/uploads/2014/06/1670715597.jpg"><img class="alignnone size-full wp-image-912" src="http://www.hackrf.net/wp-content/uploads/2014/06/1670715597.jpg" alt="1670715597" width="1280" height="960" /></a> <a href="http://www.hackrf.net/wp-content/uploads/2014/06/1070978658.jpg)
+![]({{ site.imageurl }}/2014/06/446192333.jpg)
+
+![]({{ site.imageurl }}/2014/06/1670715597.jpg) 
+
+![]({{ site.imageurl }}/2014/06/1070978658.jpg)
 
 然后是激动人心的抽奖环节，现场共抽出三件印有HackRF PCB图纸的文化衫，大家纷纷表示，下回板子出了问题脱下衣服就可以查了！
 
 在自由讨论环节中，北大的彭老师给出了非常多的行之有效的建议，例如组织力量开发HackRF的Matlab驱动，这样会使得通信专业的学生更容易上手，从而能将仿真出的信号直接与真实世界相连。清华大学业余无线电协会的前任会长孙忆南同学也提出了一些宝贵的建议。来自中科院开源软件协会的李超同学也提出了一些以Linux用户视角的建议。
 
-![]({{ site.imageurl }}/2014/06/1417773647.jpg"><img class="alignnone size-full wp-image-910" src="http://www.hackrf.net/wp-content/uploads/2014/06/1417773647.jpg" alt="1417773647" width="1280" height="960" /></a> <a href="http://www.hackrf.net/wp-content/uploads/2014/06/1477089547-e1402470056231.jpg)
+![]({{ site.imageurl }}/2014/06/1417773647.jpg)
+
+![]({{ site.imageurl }}/2014/06/1417773647.jpg)
+
+![]({{ site.imageurl }}/2014/06/1477089547-e1402470056231.jpg)
 
 &nbsp;
 

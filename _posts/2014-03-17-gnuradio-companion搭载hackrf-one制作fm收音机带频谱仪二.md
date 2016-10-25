@@ -49,7 +49,7 @@ duoshuo_thread_id:
 
 基带：&lt; 50MHz
 
-<a style="line-height: 1.5em" href="http://www.hackrf.net/wp-content/uploads/2014/03/2014-03-17-214018的屏幕截图.png"><img class="alignnone size-medium wp-image-345" alt="2014-03-17 21:40:18的屏幕截图" src="http://www.hackrf.net/wp-content/uploads/2014/03/2014-03-17-214018的屏幕截图-300x204.png" width="300" height="204" /></a>
+![]({{ site.imageurl }}/2014/03/2014-03-17-214018的屏幕截图.png)
 
 这样我们就可以随时更换频率调台了，还可以随时调整射频中频以及基带频率，让播放更清晰。<span style="line-height: 1.5em">
 </span>

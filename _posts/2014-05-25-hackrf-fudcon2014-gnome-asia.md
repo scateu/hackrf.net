@@ -11,4 +11,10 @@ views:
 duoshuo_thread_id:
   - "1312073613704167519"
 ---
-![]({{ site.imageurl }}/2014/05/fudcon2014_4.jpg"><img class="alignnone size-full wp-image-825" src="http://www.hackrf.net/wp-content/uploads/2014/05/fudcon2014_4.jpg" alt="fudcon2014_4" width="720" height="540" /></a> <a href="http://www.hackrf.net/wp-content/uploads/2014/05/fudcon2014_3.jpg"><img class="alignnone size-full wp-image-826" src="http://www.hackrf.net/wp-content/uploads/2014/05/fudcon2014_3.jpg" alt="fudcon2014_3" width="720" height="461" /></a> <a href="http://www.hackrf.net/wp-content/uploads/2014/05/fudcon2014_2.jpg"><img class="alignnone size-full wp-image-827" src="http://www.hackrf.net/wp-content/uploads/2014/05/fudcon2014_2.jpg" alt="fudcon2014_2" width="720" height="960" /></a> <a href="http://www.hackrf.net/wp-content/uploads/2014/05/fudcon2014.jpg)
+![]({{ site.imageurl }}/2014/05/fudcon2014.jpg) 
+
+![]({{ site.imageurl }}/2014/05/fudcon2014_2.jpg) 
+
+![]({{ site.imageurl }}/2014/05/fudcon2014_3.jpg) 
+
+![]({{ site.imageurl }}/2014/05/fudcon2014_4.jpg) 
