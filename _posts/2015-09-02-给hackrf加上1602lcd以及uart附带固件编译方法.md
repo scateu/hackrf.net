@@ -30,18 +30,18 @@ HACKRF P20  7 -- 1602LCD pin4
 HACKRF    VCC -- 1602LCD pin2 pin15
 HACKRF    GND -- 1602LCD pin1 pin3 pin16
 </code></pre>
-<img src="http://sdr-x.github.io/media/hackrf_one_1602LCD.JPG" alt="" />
+![](http://sdr-x.github.io/media/hackrf_one_1602LCD.JPG)
 
 <strong>UART HACKRF pin connection</strong>
 <pre><code>HACKRF P25 1 GND        -- GND of computer or USB-uart dongle
 HACKRF P25 4 UART0 RXD  -- TXD of computer or USB-uart dongle
 HACKRF P25 5 UART0 TXD  -- RXD of computer or USB-uart dongle
 </code></pre>
-<img src="http://sdr-x.github.io/media/hackrf_one_UART.JPG" alt="" />
+![](http://sdr-x.github.io/media/hackrf_one_UART.JPG)
 
 其中hackrf的P20和P25定义，大家去看它的 <a href="https://github.com/sdr-x/sdr-x.github.io/blob/master/_resource/hackrf-one-assembly.pdf">hackrf-one-assembly.pdf</a> and <a href="https://github.com/sdr-x/sdr-x.github.io/blob/master/_resource/hackrf-one-schematic.pdf">hackrf-one-schematic.pdf</a> （hackrf代码库doc/hardware目录）。关于1602LCD模块pin脚定义，以及usb串口的pin脚定义更是烂大街了，自己搜吧。
 <h4>2 软件demo</h4>
-<img src="http://sdr-x.github.io/media/hackrf_uart_1602lcd.JPG" alt="" />
+![](http://sdr-x.github.io/media/hackrf_uart_1602lcd.JPG)
 
 上图中我给的hackrf固件代码循环在液晶屏显示两行，同时也往电脑上的minicom打印串口输出。波特率921600。
 
