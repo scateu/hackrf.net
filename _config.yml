@@ -20,3 +20,5 @@ markdown: kramdown
 
 # _pages
 include: ['_pages']
+
+imageurl: "https://raw.githubusercontent.com/scateu/hackrf.net/master/images"

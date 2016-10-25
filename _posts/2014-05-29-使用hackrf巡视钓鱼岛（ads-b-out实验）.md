@@ -17,7 +17,7 @@ duoshuo_thread_id:
 
 做了这么个简单的实验（见附件图和视频： <a title="http://v.youku.com/v_show/id_XNzE4NzIzNDIw.html" href="http://v.youku.com/v_show/id_XNzE4NzIzNDIw.html">http://v.youku.com/v_show/id_XNzE4NzIzNDIw.html</a>）。
 
-<a href="http://www.hackrf.net/wp-content/uploads/2014/05/hackrf-adsb-rtl-sdr-dump10901.png"><img class="alignnone size-full wp-image-890" src="http://www.hackrf.net/wp-content/uploads/2014/05/hackrf-adsb-rtl-sdr-dump10901.png" alt="hackrf-adsb-rtl-sdr-dump1090" width="1440" height="1077" /></a>
+![]({{ site.imageurl }}/2014/05/hackrf-adsb-rtl-sdr-dump10901.png)
 
 实现的功能是：
 
@@ -25,7 +25,6 @@ matlab按照ads-b协议生成信号，因为自己生成可以填入任意经纬
 
 生成信号的坐标序列是按照钓鱼岛周围一圈设置的，所以你在ADS-B接收界面中看到的就是一架飞机在以3000ft的高度巡视钓鱼岛。。。
 
-&nbsp;
 
 警告：
 
@@ -37,4 +36,3 @@ matlab按照ads-b协议生成信号，因为自己生成可以填入任意经纬
 
 其实发射相对接收简单许多，按照协议做就是了，对于熟手，依靠互联网公开的资料，半天到一天就能搞定。
 
-&nbsp;
