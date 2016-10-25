@@ -4,7 +4,7 @@ layout: page
 permalink: /application-tutorial/
 title: "应用教程"
 author: scateu
-post_date: 2013-12-29 01:21:14
+date: 2013-12-29 01:21:14
 post_excerpt: ""
 layout: page
 published: true

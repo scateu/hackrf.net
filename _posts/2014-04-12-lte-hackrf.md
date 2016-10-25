@@ -5,8 +5,6 @@ author: jxj
 post_date: 2014-04-12 23:51:25
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.hackrf.net/2014/04/lte-hackrf/
 published: true
 views:
   - "8536"

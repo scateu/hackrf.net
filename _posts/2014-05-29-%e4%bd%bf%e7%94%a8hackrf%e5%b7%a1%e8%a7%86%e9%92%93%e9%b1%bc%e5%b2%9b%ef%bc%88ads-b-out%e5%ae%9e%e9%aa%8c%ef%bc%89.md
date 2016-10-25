@@ -5,8 +5,6 @@ author: jxj
 post_date: 2014-05-29 12:13:04
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.hackrf.net/2014/05/%e4%bd%bf%e7%94%a8hackrf%e5%b7%a1%e8%a7%86%e9%92%93%e9%b1%bc%e5%b2%9b%ef%bc%88ads-b-out%e5%ae%9e%e9%aa%8c%ef%bc%89/
 published: true
 views:
   - "7513"

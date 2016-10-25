@@ -4,7 +4,7 @@ layout: page
 permalink: /download/
 title: "资源下载"
 author: scateu
-post_date: 2013-12-29 01:22:56
+date: 2013-12-29 01:22:56
 post_excerpt: ""
 layout: page
 published: true

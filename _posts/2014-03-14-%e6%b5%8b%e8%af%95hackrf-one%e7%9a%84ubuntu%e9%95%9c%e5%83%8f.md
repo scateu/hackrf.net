@@ -5,8 +5,6 @@ author: citypw
 post_date: 2014-03-14 20:42:56
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.hackrf.net/2014/03/%e6%b5%8b%e8%af%95hackrf-one%e7%9a%84ubuntu%e9%95%9c%e5%83%8f/
 published: true
 duoshuo_thread_id:
   - "1312073613704167464"

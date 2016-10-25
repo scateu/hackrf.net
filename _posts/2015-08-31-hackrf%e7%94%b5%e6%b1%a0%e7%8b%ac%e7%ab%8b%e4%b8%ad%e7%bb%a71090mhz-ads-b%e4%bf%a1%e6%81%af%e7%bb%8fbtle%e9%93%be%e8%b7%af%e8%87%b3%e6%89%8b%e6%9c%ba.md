@@ -5,8 +5,6 @@ author: jxj
 post_date: 2015-08-31 20:22:03
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.hackrf.net/2015/08/hackrf%e7%94%b5%e6%b1%a0%e7%8b%ac%e7%ab%8b%e4%b8%ad%e7%bb%a71090mhz-ads-b%e4%bf%a1%e6%81%af%e7%bb%8fbtle%e9%93%be%e8%b7%af%e8%87%b3%e6%89%8b%e6%9c%ba/
 published: true
 views:
   - "3244"

@@ -5,8 +5,6 @@ author: scateu
 post_date: 2014-03-13 19:00:07
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.hackrf.net/2014/03/hackrf%e5%b0%86%e4%bd%9c%e4%b8%ba2014-ostc%e5%bc%80%e6%ba%90%e6%8a%80%e6%9c%af%e5%a4%a7%e4%bc%9a%e7%9a%84%e6%bc%94%e8%ae%b2%e4%b8%bb%e9%a2%98/
 published: true
 duoshuo_thread_id:
   - "1312073613704167461"

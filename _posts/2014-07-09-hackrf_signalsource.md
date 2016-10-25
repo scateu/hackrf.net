@@ -5,8 +5,6 @@ author: dovecho
 post_date: 2014-07-09 21:43:54
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.hackrf.net/2014/07/hackrf_signalsource/
 published: true
 views:
   - "5307"

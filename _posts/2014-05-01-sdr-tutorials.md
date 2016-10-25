@@ -5,8 +5,6 @@ author: scateu
 post_date: 2014-05-01 13:14:00
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.hackrf.net/2014/05/sdr-tutorials/
 published: true
 views:
   - "4008"

@@ -5,8 +5,6 @@ author: scateu
 post_date: 2014-05-10 23:05:07
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.hackrf.net/2014/05/ubuntu-kylin-14-04-hackrf-x-gnuradio/
 published: true
 views:
   - "3308"

@@ -5,8 +5,6 @@ author: scateu
 post_date: 2014-03-15 02:26:35
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.hackrf.net/2014/03/solidot%e4%b8%8a%e5%85%b3%e4%ba%8ehackrf-one%e7%9a%84%e6%8a%a5%e9%81%93/
 published: true
 duoshuo_thread_id:
   - "1312073613704167467"

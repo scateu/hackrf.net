@@ -5,8 +5,6 @@ author: scateu
 post_date: 2014-04-28 04:17:48
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.hackrf.net/2014/04/hackrf-support-for-kalibrate/
 published: true
 views:
   - "5408"

@@ -5,8 +5,6 @@ author: scateu
 post_date: 2014-03-25 15:43:17
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.hackrf.net/2014/03/hackrf-one-10mhz-clkout/
 published: true
 views:
   - "8876"

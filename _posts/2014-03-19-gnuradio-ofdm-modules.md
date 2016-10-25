@@ -5,8 +5,6 @@ author: scateu
 post_date: 2014-03-19 15:29:31
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.hackrf.net/2014/03/gnuradio-ofdm-modules/
 published: true
 views:
   - "7012"

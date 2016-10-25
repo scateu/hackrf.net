@@ -5,8 +5,6 @@ author: paud
 post_date: 2014-03-20 08:38:21
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.hackrf.net/2014/03/%e4%bf%ae%e6%94%b9build-gnuradio%e5%85%8d%e7%bf%bb%e5%a2%99%e5%85%8d%e7%82%96github%e6%9c%ac%e5%9c%b0%e5%ae%89%e8%a3%85/
 published: true
 views:
   - "4980"

@@ -5,8 +5,6 @@ author: scateu
 post_date: 2014-06-17 01:15:37
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.hackrf.net/2014/06/hackrf_nbfm_tx_n_ctcss_squelch/
 published: true
 views:
   - "11084"

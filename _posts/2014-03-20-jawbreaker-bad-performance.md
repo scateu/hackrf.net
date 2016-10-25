@@ -5,8 +5,6 @@ author: scateu
 post_date: 2014-03-20 15:29:29
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.hackrf.net/2014/03/jawbreaker-bad-performance/
 published: true
 views:
   - "1290"

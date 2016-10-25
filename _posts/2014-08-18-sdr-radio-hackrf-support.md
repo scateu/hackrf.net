@@ -5,8 +5,6 @@ author: scateu
 post_date: 2014-08-18 09:19:23
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.hackrf.net/2014/08/sdr-radio-hackrf-support/
 published: true
 views:
   - "8299"

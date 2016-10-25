@@ -5,8 +5,6 @@ author: scateu
 post_date: 2014-06-11 15:03:20
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.hackrf.net/2014/06/hackrf-net-offline-activity-1/
 published: true
 views:
   - "2370"

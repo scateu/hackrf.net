@@ -5,8 +5,6 @@ author: scateu
 post_date: 2014-03-26 12:48:04
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.hackrf.net/2014/03/compile-hackrf-host-on-windows-and-linux/
 published: true
 views:
   - "4133"

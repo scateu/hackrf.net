@@ -5,8 +5,6 @@ author: scateu
 post_date: 2014-05-25 23:51:36
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.hackrf.net/2014/05/hackrf-fudcon2014-gnome-asia/
 published: true
 views:
   - "2366"

@@ -4,7 +4,7 @@ layout: page
 permalink: /HackRF-Evolution-Plan/
 title: "HackRF演进计划"
 author: scateu
-post_date: 2014-03-16 12:31:10
+date: 2014-03-16 12:31:10
 post_excerpt: ""
 layout: page
 published: true

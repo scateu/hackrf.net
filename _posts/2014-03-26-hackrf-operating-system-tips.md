@@ -5,8 +5,6 @@ author: scateu
 post_date: 2014-03-26 13:28:57
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.hackrf.net/2014/03/hackrf-operating-system-tips/
 published: true
 views:
   - "4316"

@@ -5,8 +5,6 @@ author: jxj
 post_date: 2014-10-27 15:51:21
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.hackrf.net/2014/10/%e4%bd%bf%e7%94%a8lameditor%e5%92%8casn1c%e5%bc%80%e6%ba%90%e5%b7%a5%e5%85%b7%e8%a7%a3%e6%9e%90%e5%8c%97%e4%ba%aclte%e7%8e%b0%e7%bd%91-rrc-sib-asn1%e6%b6%88%e6%81%af/
 published: true
 views:
   - "5395"

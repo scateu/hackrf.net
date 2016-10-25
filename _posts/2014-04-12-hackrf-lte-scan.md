@@ -5,8 +5,6 @@ author: scateu
 post_date: 2014-04-12 10:00:18
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.hackrf.net/2014/04/hackrf-lte-scan/
 published: true
 views:
   - "9505"

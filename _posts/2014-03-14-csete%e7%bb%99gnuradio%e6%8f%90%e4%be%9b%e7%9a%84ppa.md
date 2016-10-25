@@ -5,8 +5,6 @@ author: scateu
 post_date: 2014-03-14 13:35:19
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.hackrf.net/2014/03/csete%e7%bb%99gnuradio%e6%8f%90%e4%be%9b%e7%9a%84ppa/
 published: true
 duoshuo_thread_id:
   - "1312073613704167463"

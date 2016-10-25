@@ -5,8 +5,6 @@ author: scateu
 post_date: 2014-04-17 01:03:28
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.hackrf.net/2014/04/gnuradio-companion-icon-and-mime-freedesktop/
 published: true
 views:
   - "2217"

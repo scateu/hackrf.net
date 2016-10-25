@@ -5,8 +5,6 @@ author: scateu
 post_date: 2014-03-20 12:12:42
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.hackrf.net/2014/03/transmit-drm/
 published: true
 views:
   - "4288"

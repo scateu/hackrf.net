@@ -5,8 +5,6 @@ author: scateu
 post_date: 2014-03-26 17:33:49
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.hackrf.net/2014/03/hackrf-dc-offset/
 published: true
 views:
   - "3630"

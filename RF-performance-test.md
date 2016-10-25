@@ -4,7 +4,7 @@ layout: page
 permalink: /RF-performance-test/
 title: "射频指标测试"
 author: scateu
-post_date: 2013-12-29 01:38:13
+date: 2013-12-29 01:38:13
 post_excerpt: ""
 layout: page
 published: true

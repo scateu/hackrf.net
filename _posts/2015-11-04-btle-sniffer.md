@@ -5,8 +5,6 @@ author: jxj
 post_date: 2015-11-04 14:57:42
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.hackrf.net/2015/11/btle-sniffer/
 published: true
 views:
   - "5534"

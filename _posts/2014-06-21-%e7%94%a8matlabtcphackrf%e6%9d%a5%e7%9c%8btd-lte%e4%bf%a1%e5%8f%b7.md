@@ -5,8 +5,6 @@ author: jxj
 post_date: 2014-06-21 18:26:25
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.hackrf.net/2014/06/%e7%94%a8matlabtcphackrf%e6%9d%a5%e7%9c%8btd-lte%e4%bf%a1%e5%8f%b7/
 published: true
 views:
   - "10194"

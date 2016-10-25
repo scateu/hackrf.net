@@ -5,8 +5,6 @@ author: scateu
 post_date: 2014-04-09 12:13:46
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.hackrf.net/2014/04/gnuradio-companion-generate-python-code/
 published: true
 views:
   - "4129"

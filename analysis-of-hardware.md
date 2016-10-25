@@ -4,7 +4,7 @@ permalink: /analysis-of-hardware/
 ID: 23
 title: "硬件分析"
 author: scateu
-post_date: 2013-12-29 01:21:53
+date: 2013-12-29 01:21:53
 post_excerpt: ""
 layout: page
 published: true

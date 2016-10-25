@@ -5,8 +5,6 @@ author: scateu
 post_date: 2014-04-06 14:11:59
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.hackrf.net/2014/04/am-ssb-intro/
 published: true
 views:
   - "2146"

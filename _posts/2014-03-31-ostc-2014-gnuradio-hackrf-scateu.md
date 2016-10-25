@@ -5,8 +5,6 @@ author: scateu
 post_date: 2014-03-31 14:34:42
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.hackrf.net/2014/03/ostc-2014-gnuradio-hackrf-scateu/
 published: true
 views:
   - "1852"

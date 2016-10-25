@@ -5,8 +5,6 @@ author: jxj
 post_date: 2014-11-02 20:09:40
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.hackrf.net/2014/11/lte%e5%b0%8f%e5%8c%ba%e6%90%9c%e7%b4%a2%e7%a8%8b%e5%ba%8f%e6%96%b0%e5%a2%9ebladerf%e7%a1%ac%e4%bb%b6%e6%94%af%e6%8c%81lte-cell-scanner-supports-bladerf/
 published: true
 views:
   - "5323"

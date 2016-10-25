@@ -5,8 +5,6 @@ author: scateu
 post_date: 2014-03-16 11:35:09
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.hackrf.net/2014/03/2014%e5%b9%b4hfd%e7%a1%ac%e4%bb%b6%e8%87%aa%e7%94%b1%e6%97%a5%e6%b4%bb%e5%8a%a8%e6%b8%85%e5%8d%8e%e7%ab%99-gnuradio-x-hackrf%e7%9a%84%e8%ae%b2%e7%a8%bf-%e7%8e%8b%e5%ba%b7-scateu/
 published: true
 duoshuo_thread_id:
   - "1312073613704167468"

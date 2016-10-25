@@ -5,8 +5,6 @@ author: scateu
 post_date: 2014-05-10 22:32:28
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.hackrf.net/2014/05/fpga-tutorial/
 published: true
 views:
   - "2936"

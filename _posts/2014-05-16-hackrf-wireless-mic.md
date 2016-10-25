@@ -5,8 +5,6 @@ author: scateu
 post_date: 2014-05-16 00:40:49
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.hackrf.net/2014/05/hackrf-wireless-mic/
 published: true
 views:
   - "6929"

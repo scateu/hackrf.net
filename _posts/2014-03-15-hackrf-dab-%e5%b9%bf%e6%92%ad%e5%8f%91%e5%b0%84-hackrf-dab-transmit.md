@@ -5,8 +5,6 @@ author: scateu
 post_date: 2014-03-15 01:36:27
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.hackrf.net/2014/03/hackrf-dab-%e5%b9%bf%e6%92%ad%e5%8f%91%e5%b0%84-hackrf-dab-transmit/
 published: true
 duoshuo_thread_id:
   - "1312073613704167466"

@@ -5,8 +5,6 @@ author: dovecho
 post_date: 2014-04-18 21:36:07
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.hackrf.net/2014/04/mac-install-hackrf/
 published: true
 views:
   - "7510"

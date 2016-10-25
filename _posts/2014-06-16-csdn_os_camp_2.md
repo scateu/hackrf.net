@@ -5,8 +5,6 @@ author: scateu
 post_date: 2014-06-16 09:18:28
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.hackrf.net/2014/06/csdn_os_camp_2/
 published: true
 views:
   - "4835"

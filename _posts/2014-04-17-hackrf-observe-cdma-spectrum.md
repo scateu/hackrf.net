@@ -5,8 +5,6 @@ author: scateu
 post_date: 2014-04-17 13:57:00
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.hackrf.net/2014/04/hackrf-observe-cdma-spectrum/
 published: true
 views:
   - "3499"

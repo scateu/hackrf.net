@@ -5,8 +5,6 @@ author: scateu
 post_date: 2014-03-21 15:38:53
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.hackrf.net/2014/03/hackrf-one-power-consumption/
 published: true
 views:
   - "2808"

@@ -5,8 +5,6 @@ author: scateu
 post_date: 2014-03-18 12:39:49
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.hackrf.net/2014/03/hackrf-one-trunking-radio/
 published: true
 views:
   - "10031"

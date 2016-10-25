@@ -5,8 +5,6 @@ author: scateu
 post_date: 2014-03-15 00:35:15
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.hackrf.net/2014/03/a-detail-help-info-on-hackrf_transfer/
 published: true
 duoshuo_thread_id:
   - "1312073613704167465"

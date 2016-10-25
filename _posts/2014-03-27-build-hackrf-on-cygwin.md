@@ -5,8 +5,6 @@ author: scateu
 post_date: 2014-03-27 00:45:18
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.hackrf.net/2014/03/build-hackrf-on-cygwin/
 published: true
 views:
   - "3295"

@@ -4,7 +4,7 @@ layout: page
 permalink: /HackRF-and-GNURadio-Introduction/
 title: "《HackRF与GNURadio入门指南》"
 author: scateu
-post_date: 2014-03-11 09:40:44
+date: 2014-03-11 09:40:44
 post_excerpt: ""
 layout: page
 published: true

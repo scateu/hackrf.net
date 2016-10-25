@@ -5,8 +5,6 @@ author: scateu
 post_date: 2014-04-21 15:40:16
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.hackrf.net/2014/04/hackrf-replay-big-gate/
 published: true
 views:
   - "12184"

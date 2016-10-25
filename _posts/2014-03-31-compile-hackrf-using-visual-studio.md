@@ -5,8 +5,6 @@ author: scateu
 post_date: 2014-03-31 17:43:31
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.hackrf.net/2014/03/compile-hackrf-using-visual-studio/
 published: true
 views:
   - "3921"

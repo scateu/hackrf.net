@@ -5,8 +5,6 @@ author: scateu
 post_date: 2014-03-19 13:28:22
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.hackrf.net/2014/03/gqrx-recording-replay/
 published: true
 views:
   - "4392"

@@ -5,8 +5,6 @@ author: scateu
 post_date: 2014-04-16 14:36:50
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.hackrf.net/2014/04/gnuradio-companion-xmlrpc/
 published: true
 views:
   - "2021"

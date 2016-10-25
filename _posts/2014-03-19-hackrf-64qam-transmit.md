@@ -5,8 +5,6 @@ author: scateu
 post_date: 2014-03-19 15:55:45
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.hackrf.net/2014/03/hackrf-64qam-transmit/
 published: true
 views:
   - "4515"

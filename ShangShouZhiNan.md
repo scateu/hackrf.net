@@ -4,7 +4,7 @@ layout: page
 permalink: /ShangShouZhiNan/
 title: "上手指南"
 author: scateu
-post_date: 2014-03-13 12:38:38
+date: 2014-03-13 12:38:38
 post_excerpt: ""
 layout: page
 published: true

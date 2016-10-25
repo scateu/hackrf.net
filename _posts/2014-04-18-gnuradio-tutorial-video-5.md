@@ -5,8 +5,6 @@ author: scateu
 post_date: 2014-04-18 15:34:33
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.hackrf.net/2014/04/gnuradio-tutorial-video-5/
 published: true
 views:
   - "2691"

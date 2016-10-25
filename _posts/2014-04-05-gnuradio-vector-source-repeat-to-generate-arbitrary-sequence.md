@@ -5,8 +5,6 @@ author: scateu
 post_date: 2014-04-05 21:02:29
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.hackrf.net/2014/04/gnuradio-vector-source-repeat-to-generate-arbitrary-sequence/
 published: true
 views:
   - "2798"

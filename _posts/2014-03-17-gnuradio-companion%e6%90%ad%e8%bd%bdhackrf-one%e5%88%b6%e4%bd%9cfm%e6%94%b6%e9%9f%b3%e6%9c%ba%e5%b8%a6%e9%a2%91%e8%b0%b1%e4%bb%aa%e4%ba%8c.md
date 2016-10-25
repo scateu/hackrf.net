@@ -5,8 +5,6 @@ author: paud
 post_date: 2014-03-17 22:17:43
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.hackrf.net/2014/03/gnuradio-companion%e6%90%ad%e8%bd%bdhackrf-one%e5%88%b6%e4%bd%9cfm%e6%94%b6%e9%9f%b3%e6%9c%ba%e5%b8%a6%e9%a2%91%e8%b0%b1%e4%bb%aa%e4%ba%8c/
 published: true
 views:
   - "5813"

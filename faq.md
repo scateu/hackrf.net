@@ -4,7 +4,7 @@ layout: page
 permalink: /faq/
 title: "FAQ"
 author: scateu
-post_date: 2014-03-13 13:01:23
+date: 2014-03-13 13:01:23
 post_excerpt: ""
 layout: page
 published: true

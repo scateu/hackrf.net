@@ -5,8 +5,6 @@ author: scateu
 post_date: 2014-04-08 09:44:06
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.hackrf.net/2014/04/airprobe-gnuradio-3-7-and-hackrf/
 published: true
 views:
   - "7984"
