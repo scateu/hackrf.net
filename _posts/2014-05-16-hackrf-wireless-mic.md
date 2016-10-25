@@ -2,7 +2,7 @@
 ID: 794
 title: "HackRF 无线话筒重放"
 author: scateu
-post_date: 2014-05-16 00:40:49
+date: 2014-05-16 00:40:49
 post_excerpt: ""
 layout: post
 published: true

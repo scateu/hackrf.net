@@ -2,7 +2,7 @@
 ID: 295
 title: "Solidot上关于HackRF One的报道"
 author: scateu
-post_date: 2014-03-15 02:26:35
+date: 2014-03-15 02:26:35
 post_excerpt: ""
 layout: post
 published: true

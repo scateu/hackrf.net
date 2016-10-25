@@ -1,9 +1,8 @@
 ---
 ID: 1106
-title: "基于HACKRF的低功耗蓝牙（BTLE）packet sniffer/scanner"
+title: "基于HackRF的低功耗蓝牙(BTLE) Packet Sniffer/Scanner"
 author: jxj
-post_date: 2015-11-04 14:57:42
-post_excerpt: ""
+date: 2015-11-04 14:57:42
 layout: post
 published: true
 views:
@@ -38,19 +37,18 @@ HACKRF BTLE sniffer 捕捉跟踪BTLE跳频链路的原理，其实不复杂。�
 
 新加了一些选项，比如强制监听某频率，比如基于独特字的包检测更灵活了。有了这两个选项，可以方便的用于监听其他类似协议。比如ANT+
 
-```
--f --freq_hz
 
-This frequency (Hz) will override channel setting (In case someone want to work on freq other than BTLE. More general purpose).
+	-f --freq_hz
 
--m --access_mask
+	This frequency (Hz) will override channel setting (In case someone want to work on freq other than BTLE. More general purpose).
 
-If a bit is 1 in this mask, corresponding bit in access address will be taken into packet existing decision (In case someone want a shorter/sparser unique word to do packet detection. More general purpose).
+	-m --access_mask
 
--o --hop
+	If a bit is 1 in this mask, corresponding bit in access address will be taken into packet existing decision (In case someone want a shorter/sparser unique word to do packet detection. More general purpose).
 
-This will turn on data channel tracking (frequency hopping) after link setup information is captured in ADV_CONNECT_REQ packet.
-```
+	-o --hop
+
+	This will turn on data channel tracking (frequency hopping) after link setup information is captured in ADV_CONNECT_REQ packet.
 
 
 ## 新增
@@ -77,11 +75,8 @@ HACKRF BTLE sniffer. 之前的版本只支持37/38/39广播信道sniff，现在�
 
 4. 注意！！！为了支持实时低延迟处理，你需要改hackrf driver：hackrf.c:
 
-```
-lib_device->transfer_count 变为 4
-
-lib_device->buffer_size 变为 4096
-```
+ - `lib_device->transfer_count` 变为 4
+ - `lib_device->buffer_size` 变为 4096
 
 然后重新编译安装driver，再编译这个BTLE sniffer.
 

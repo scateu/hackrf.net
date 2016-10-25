@@ -2,7 +2,7 @@
 ID: 1091
 title: "“hackrf+电池”独立中继1090MHz ADS-B信息经BTLE链路至手机"
 author: jxj
-post_date: 2015-08-31 20:22:03
+date: 2015-08-31 20:22:03
 post_excerpt: ""
 layout: post
 published: true

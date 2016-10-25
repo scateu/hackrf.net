@@ -2,7 +2,7 @@
 ID: 299
 title: " '2014年HFD硬件自由日活动清华站-GNURadio x HackRF的讲稿 &#8211; 王康 / scateu'"
 author: scateu
-post_date: 2014-03-16 11:35:09
+date: 2014-03-16 11:35:09
 post_excerpt: ""
 layout: post
 published: true

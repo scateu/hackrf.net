@@ -2,7 +2,7 @@
 ID: 445
 title: "HackRF关于DC Offset直流偏置"
 author: scateu
-post_date: 2014-03-26 17:33:49
+date: 2014-03-26 17:33:49
 post_excerpt: ""
 layout: post
 published: true

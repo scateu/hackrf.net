@@ -2,7 +2,7 @@
 ID: 97
 title: "'Playing with the HackRF &#8211; Keyfobs'"
 author: scateu
-post_date: 2014-01-02 15:28:33
+date: 2014-01-02 15:28:33
 post_excerpt: ""
 layout: post
 published: true

@@ -2,7 +2,7 @@
 ID: 896
 title: "与HackRF.net导师一起参加CSDN开源夏令营，5000元激励奖金等你拿"
 author: scateu
-post_date: 2014-06-06 14:34:51
+date: 2014-06-06 14:34:51
 post_excerpt: ""
 layout: post
 published: true

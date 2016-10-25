@@ -2,7 +2,7 @@
 ID: 606
 title: "gnuradio-companion生成Python代码"
 author: scateu
-post_date: 2014-04-09 12:13:46
+date: 2014-04-09 12:13:46
 post_excerpt: ""
 layout: post
 published: true

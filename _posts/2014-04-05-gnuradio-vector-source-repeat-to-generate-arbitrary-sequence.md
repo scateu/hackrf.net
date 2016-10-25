@@ -2,7 +2,7 @@
 ID: 546
 title: "GNURadio和HackRF使用Vector Source和Repeat来生成任意脉冲序列"
 author: scateu
-post_date: 2014-04-05 21:02:29
+date: 2014-04-05 21:02:29
 post_excerpt: ""
 layout: post
 published: true

@@ -2,7 +2,7 @@
 ID: 712
 title: "使用XMLRPC来对GNURadio进行远程调用"
 author: scateu
-post_date: 2014-04-16 14:36:50
+date: 2014-04-16 14:36:50
 post_excerpt: ""
 layout: post
 published: true

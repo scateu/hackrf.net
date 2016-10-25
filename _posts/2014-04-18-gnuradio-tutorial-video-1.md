@@ -2,7 +2,7 @@
 ID: 729
 title: "GNURadio教学视频1: GRC, Sources, Sinks, Audio &#038; GUI Blocks"
 author: scateu
-post_date: 2014-04-18 15:26:40
+date: 2014-04-18 15:26:40
 post_excerpt: ""
 layout: post
 published: true

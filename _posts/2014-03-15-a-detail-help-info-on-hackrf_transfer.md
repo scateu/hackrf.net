@@ -2,7 +2,7 @@
 ID: 280
 title: "A detail help info on hackrf_transfer"
 author: scateu
-post_date: 2014-03-15 00:35:15
+date: 2014-03-15 00:35:15
 post_excerpt: ""
 layout: post
 published: true

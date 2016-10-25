@@ -2,7 +2,7 @@
 ID: 440
 title: "Windows和Linux环境下编译libhackrf和相关utils"
 author: scateu
-post_date: 2014-03-26 12:48:04
+date: 2014-03-26 12:48:04
 post_excerpt: ""
 layout: post
 published: true

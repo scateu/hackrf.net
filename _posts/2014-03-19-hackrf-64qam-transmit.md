@@ -2,7 +2,7 @@
 ID: 375
 title: "HackRF / GNURadio 发射 64QAM 信号"
 author: scateu
-post_date: 2014-03-19 15:55:45
+date: 2014-03-19 15:55:45
 post_excerpt: ""
 layout: post
 published: true

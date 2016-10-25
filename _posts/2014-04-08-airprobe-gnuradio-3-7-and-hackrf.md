@@ -2,7 +2,7 @@
 ID: 595
 title: "airprobe的GNURadio 3.7版本及HackRF支持"
 author: scateu
-post_date: 2014-04-08 09:44:06
+date: 2014-04-08 09:44:06
 post_excerpt: ""
 layout: post
 published: true

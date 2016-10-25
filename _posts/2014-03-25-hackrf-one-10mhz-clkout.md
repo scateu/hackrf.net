@@ -2,7 +2,7 @@
 ID: 434
 title: "HackRF One 10MHz时钟输出"
 author: scateu
-post_date: 2014-03-25 15:43:17
+date: 2014-03-25 15:43:17
 post_excerpt: ""
 layout: post
 published: true

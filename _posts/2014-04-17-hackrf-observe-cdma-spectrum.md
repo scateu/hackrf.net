@@ -2,7 +2,7 @@
 ID: 725
 title: "使用HackRF观察CDMA频谱"
 author: scateu
-post_date: 2014-04-17 13:57:00
+date: 2014-04-17 13:57:00
 post_excerpt: ""
 layout: post
 published: true

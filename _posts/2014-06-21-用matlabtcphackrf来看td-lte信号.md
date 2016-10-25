@@ -2,7 +2,7 @@
 ID: 935
 title: "用MATLAB+TCP+HACKRF来“看”TD-LTE信号"
 author: jxj
-post_date: 2014-06-21 18:26:25
+date: 2014-06-21 18:26:25
 post_excerpt: ""
 layout: post
 published: true

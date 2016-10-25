@@ -2,7 +2,7 @@
 ID: 415
 title: "在有Windows的情况下,快速双系统安装Ubuntu"
 author: scateu
-post_date: 2014-03-20 14:26:21
+date: 2014-03-20 14:26:21
 post_excerpt: ""
 layout: post
 published: true

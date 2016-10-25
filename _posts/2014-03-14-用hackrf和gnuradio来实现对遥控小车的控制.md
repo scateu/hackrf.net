@@ -2,7 +2,7 @@
 ID: 266
 title: "用HackRF和GNURadio来实现对遥控小车的控制"
 author: scateu
-post_date: 2014-03-14 00:34:51
+date: 2014-03-14 00:34:51
 post_excerpt: ""
 layout: post
 published: true

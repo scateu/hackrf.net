@@ -2,7 +2,7 @@
 ID: 888
 title: "使用HackRF巡视钓鱼岛（ADS-B out实验）"
 author: jxj
-post_date: 2014-05-29 12:13:04
+date: 2014-05-29 12:13:04
 post_excerpt: ""
 layout: post
 published: true

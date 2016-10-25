@@ -2,7 +2,7 @@
 ID: 153
 title: "The Amp Hour对Michael Ossmann的采访"
 author: scateu
-post_date: 2014-01-05 03:08:38
+date: 2014-01-05 03:08:38
 post_excerpt: ""
 layout: post
 published: true

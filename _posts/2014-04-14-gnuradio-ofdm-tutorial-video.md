@@ -2,7 +2,7 @@
 ID: 702
 title: "GNURadio OFDM 教程:  OFDM Packet Transceivers"
 author: scateu
-post_date: 2014-04-14 15:34:31
+date: 2014-04-14 15:34:31
 post_excerpt: ""
 layout: post
 published: true

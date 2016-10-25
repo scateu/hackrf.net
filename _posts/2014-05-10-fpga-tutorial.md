@@ -2,7 +2,7 @@
 ID: 783
 title: "FPGA学习参考资料"
 author: scateu
-post_date: 2014-05-10 22:32:28
+date: 2014-05-10 22:32:28
 post_excerpt: ""
 layout: post
 published: true

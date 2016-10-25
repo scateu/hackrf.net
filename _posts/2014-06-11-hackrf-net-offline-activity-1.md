@@ -2,7 +2,7 @@
 ID: 902
 title: "HackRF.net第一次线下聚会活动报道"
 author: scateu
-post_date: 2014-06-11 15:03:20
+date: 2014-06-11 15:03:20
 post_excerpt: ""
 layout: post
 published: true

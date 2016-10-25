@@ -2,7 +2,7 @@
 ID: 74
 title: "Linux系统上搭建HackRF环境"
 author: scateu
-post_date: 2013-12-30 18:23:04
+date: 2013-12-30 18:23:04
 post_excerpt: ""
 layout: post
 published: true

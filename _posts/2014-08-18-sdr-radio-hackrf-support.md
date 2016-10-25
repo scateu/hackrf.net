@@ -2,7 +2,7 @@
 ID: 980
 title: "SDR-Radio已经支持HackRF"
 author: scateu
-post_date: 2014-08-18 09:19:23
+date: 2014-08-18 09:19:23
 post_excerpt: ""
 layout: post
 published: true

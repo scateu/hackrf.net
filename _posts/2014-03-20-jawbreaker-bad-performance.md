@@ -2,7 +2,7 @@
 ID: 421
 title: "原作者废弃了Jawbreaker测试版本上的的微带天线"
 author: scateu
-post_date: 2014-03-20 15:29:29
+date: 2014-03-20 15:29:29
 post_excerpt: ""
 layout: post
 published: true

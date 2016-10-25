@@ -2,7 +2,7 @@
 ID: 195
 title: "RTL-SDR and GNU Radio 完善的资料汇总"
 author: scateu
-post_date: 2014-01-19 15:55:06
+date: 2014-01-19 15:55:06
 post_excerpt: ""
 layout: post
 published: true

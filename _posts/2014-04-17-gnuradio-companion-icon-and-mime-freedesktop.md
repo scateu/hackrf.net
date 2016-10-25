@@ -2,7 +2,7 @@
 ID: 718
 title: "为gnuradio-companion安装图标及文件关联"
 author: scateu
-post_date: 2014-04-17 01:03:28
+date: 2014-04-17 01:03:28
 post_excerpt: ""
 layout: post
 published: true

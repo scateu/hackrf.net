@@ -2,7 +2,7 @@
 ID: 772
 title: "SDR理论教程推荐"
 author: scateu
-post_date: 2014-05-01 13:14:00
+date: 2014-05-01 13:14:00
 post_excerpt: ""
 layout: post
 published: true

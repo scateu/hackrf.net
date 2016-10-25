@@ -2,7 +2,7 @@
 ID: 791
 title: "Ubuntu Kylin 14.04 发布活动主题演讲: HackRF x GNURadio"
 author: scateu
-post_date: 2014-05-10 23:05:07
+date: 2014-05-10 23:05:07
 post_excerpt: ""
 layout: post
 published: true

@@ -2,7 +2,7 @@
 ID: 359
 title: "Gqrx提供了录制和回放的功能"
 author: scateu
-post_date: 2014-03-19 13:28:22
+date: 2014-03-19 13:28:22
 post_excerpt: ""
 layout: post
 published: true

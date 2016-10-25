@@ -2,7 +2,7 @@
 ID: 733
 title: "GNURadio教学视频2: Hysteresis, Noise, Thresholds &#038; Bit Error Rate'"
 author: scateu
-post_date: 2014-04-18 15:29:03
+date: 2014-04-18 15:29:03
 post_excerpt: ""
 layout: post
 published: true

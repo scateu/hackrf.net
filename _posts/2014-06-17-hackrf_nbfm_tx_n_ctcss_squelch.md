@@ -2,7 +2,7 @@
 ID: 924
 title: "HackRF/GNURadio发射手台/对讲机的NBFM(窄带调频)信号并进行亚音频静噪实验"
 author: scateu
-post_date: 2014-06-17 01:15:37
+date: 2014-06-17 01:15:37
 post_excerpt: ""
 layout: post
 published: true

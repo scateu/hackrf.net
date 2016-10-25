@@ -2,7 +2,7 @@
 ID: 1102
 title: "给hackrf加上1602LCD以及UART(附带固件编译方法)"
 author: jxj
-post_date: 2015-09-02 09:51:17
+date: 2015-09-02 09:51:17
 post_excerpt: ""
 layout: post
 published: true

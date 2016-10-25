@@ -2,7 +2,7 @@
 ID: 274
 title: "测试HackRF One的Ubuntu虚拟机"
 author: citypw
-post_date: 2014-03-14 20:42:56
+date: 2014-03-14 20:42:56
 post_excerpt: ""
 layout: post
 published: true

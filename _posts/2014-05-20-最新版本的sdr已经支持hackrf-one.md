@@ -2,7 +2,7 @@
 ID: 809
 title: "最新版本的SDR#已经支持HackRF One"
 author: scateu
-post_date: 2014-05-20 22:50:14
+date: 2014-05-20 22:50:14
 post_excerpt: ""
 layout: post
 published: true
