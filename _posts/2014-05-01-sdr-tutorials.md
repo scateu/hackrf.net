@@ -1,6 +1,6 @@
 ---
 ID: 772
-post_title: SDR理论教程推荐
+title: "SDR理论教程推荐"
 author: scateu
 post_date: 2014-05-01 13:14:00
 post_excerpt: ""

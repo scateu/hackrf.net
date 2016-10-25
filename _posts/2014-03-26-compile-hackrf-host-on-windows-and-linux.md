@@ -1,7 +1,6 @@
 ---
 ID: 440
-post_title: >
-  Windows和Linux环境下编译libhackrf和相关utils
+title: "Windows和Linux环境下编译libhackrf和相关utils"
 author: scateu
 post_date: 2014-03-26 12:48:04
 post_excerpt: ""

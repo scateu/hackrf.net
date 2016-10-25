@@ -1,8 +1,6 @@
 ---
 ID: 652
-post_title: >
-  Chinese hacker jxj added HackRF One
-  support for LTE Cell Searcher .
+title: "Chinese hacker jxj added HackRF One support for LTE Cell Searcher ."
 author: scateu
 post_date: 2014-04-12 10:19:37
 post_excerpt: ""

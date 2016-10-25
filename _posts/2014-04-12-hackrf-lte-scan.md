@@ -1,8 +1,6 @@
 ---
 ID: 648
-post_title: >
-  HackRF 扫描LTE基站
-  支持中国的TDD-LTE
+title: "HackRF 扫描LTE基站 支持中国的TDD-LTE"
 author: scateu
 post_date: 2014-04-12 10:00:18
 post_excerpt: ""

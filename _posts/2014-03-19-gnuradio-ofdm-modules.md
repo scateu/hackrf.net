@@ -1,6 +1,6 @@
 ---
 ID: 367
-post_title: GNURadio关于OFDM的模块
+title: "GNURadio关于OFDM的模块"
 author: scateu
 post_date: 2014-03-19 15:29:31
 post_excerpt: ""

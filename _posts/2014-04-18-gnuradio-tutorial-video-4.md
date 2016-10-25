@@ -1,6 +1,6 @@
 ---
 ID: 735
-post_title: 'GNURadio教学视频4: Phase-Shift Keying (PSK), Constellations &#038; Auto-correlation'
+title: "GNURadio教学视频4: Phase-Shift Keying (PSK), Constellations &#038; Auto-correlation'"
 author: scateu
 post_date: 2014-04-18 15:34:31
 post_excerpt: ""

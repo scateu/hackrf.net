@@ -1,7 +1,6 @@
 ---
 ID: 919
-post_title: >
-  HackRF.net参加的CSDN开源夏令营正式开始报名啦
+title: "HackRF.net参加的CSDN开源夏令营正式开始报名啦"
 author: scateu
 post_date: 2014-06-16 09:18:28
 post_excerpt: ""

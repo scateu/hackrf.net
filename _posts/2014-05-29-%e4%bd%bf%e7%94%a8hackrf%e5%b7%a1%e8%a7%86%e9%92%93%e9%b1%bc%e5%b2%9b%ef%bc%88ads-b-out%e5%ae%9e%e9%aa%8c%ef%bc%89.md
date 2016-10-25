@@ -1,8 +1,6 @@
 ---
 ID: 888
-post_title: >
-  使用HackRF巡视钓鱼岛（ADS-B
-  out实验）
+title: "使用HackRF巡视钓鱼岛（ADS-B out实验）"
 author: jxj
 post_date: 2014-05-29 12:13:04
 post_excerpt: ""

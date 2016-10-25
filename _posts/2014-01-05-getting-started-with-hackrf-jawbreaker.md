@@ -1,6 +1,6 @@
 ---
 ID: 144
-post_title: Getting started with HackRF Jawbreaker
+title: "Getting started with HackRF Jawbreaker"
 author: scateu
 post_date: 2014-01-05 01:26:30
 post_excerpt: ""

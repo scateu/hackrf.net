@@ -1,7 +1,6 @@
 ---
 ID: 415
-post_title: >
-  在有Windows的情况下,快速双系统安装Ubuntu
+title: "在有Windows的情况下,快速双系统安装Ubuntu"
 author: scateu
 post_date: 2014-03-20 14:26:21
 post_excerpt: ""

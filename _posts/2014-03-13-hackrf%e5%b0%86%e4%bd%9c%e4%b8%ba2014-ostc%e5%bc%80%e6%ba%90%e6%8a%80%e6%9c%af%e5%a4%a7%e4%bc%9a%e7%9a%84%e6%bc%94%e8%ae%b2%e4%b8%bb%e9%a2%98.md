@@ -1,7 +1,6 @@
 ---
 ID: 250
-post_title: >
-  HackRF将作为2014年OSTC开源技术大会的演讲主题
+title: "HackRF将作为2014年OSTC开源技术大会的演讲主题"
 author: scateu
 post_date: 2014-03-13 19:00:07
 post_excerpt: ""

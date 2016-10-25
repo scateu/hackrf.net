@@ -1,6 +1,6 @@
 ---
 ID: 74
-post_title: Linux系统上搭建HackRF环境
+title: "Linux系统上搭建HackRF环境"
 author: scateu
 post_date: 2013-12-30 18:23:04
 post_excerpt: ""

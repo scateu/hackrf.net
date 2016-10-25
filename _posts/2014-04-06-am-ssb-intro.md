@@ -1,7 +1,6 @@
 ---
 ID: 580
-post_title: >
-  关于调幅/单边带调制的一点讨论
+title: "关于调幅/单边带调制的一点讨论"
 author: scateu
 post_date: 2014-04-06 14:11:59
 post_excerpt: ""

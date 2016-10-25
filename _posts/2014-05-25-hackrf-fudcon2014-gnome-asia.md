@@ -1,8 +1,6 @@
 ---
 ID: 824
-post_title: >
-  HackRF作为主题演讲参加GNOME Asia
-  2014 及 FUDCON 2014活动
+title: "HackRF作为主题演讲参加GNOME Asia 2014 及 FUDCON 2014活动"
 author: scateu
 post_date: 2014-05-25 23:51:36
 post_excerpt: ""

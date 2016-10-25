@@ -1,8 +1,6 @@
 ---
 ID: 342
-post_title: >
-  gnuradio-companion搭载hackrf
-  one制作FM收音机带频谱仪(二)
+title: "gnuradio-companion搭载hackrf one制作FM收音机带频谱仪(二)"
 author: paud
 post_date: 2014-03-17 22:17:43
 post_excerpt: ""

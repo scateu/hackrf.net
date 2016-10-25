@@ -1,6 +1,6 @@
 ---
 ID: 606
-post_title: gnuradio-companion生成Python代码
+title: "gnuradio-companion生成Python代码"
 author: scateu
 post_date: 2014-04-09 12:13:46
 post_excerpt: ""

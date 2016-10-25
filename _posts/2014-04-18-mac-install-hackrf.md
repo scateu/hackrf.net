@@ -1,6 +1,6 @@
 ---
 ID: 743
-post_title: 在Mac上安装HackRF环境
+title: "在Mac上安装HackRF环境"
 author: dovecho
 post_date: 2014-04-18 21:36:07
 post_excerpt: ""

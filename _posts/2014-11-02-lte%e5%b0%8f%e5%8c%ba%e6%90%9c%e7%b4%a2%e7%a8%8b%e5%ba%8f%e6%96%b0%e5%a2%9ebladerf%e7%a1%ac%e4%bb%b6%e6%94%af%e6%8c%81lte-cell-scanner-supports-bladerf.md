@@ -1,8 +1,6 @@
 ---
 ID: 1032
-post_title: >
-  LTE小区搜索程序新增bladeRF硬件支持(LTE-Cell-Scanner
-  supports bladeRF)
+title: "LTE小区搜索程序新增bladeRF硬件支持(LTE-Cell-Scanner supports bladeRF)"
 author: jxj
 post_date: 2014-11-02 20:09:40
 post_excerpt: ""

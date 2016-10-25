@@ -1,8 +1,6 @@
 ---
 ID: 523
-post_title: >
-  Windows下使用Visual Studio 2012
-  编译 HackRF
+title: "Windows下使用Visual Studio 2012 编译 HackRF"
 author: scateu
 post_date: 2014-03-31 17:43:31
 post_excerpt: ""

@@ -1,7 +1,6 @@
 ---
 ID: 390
-post_title: >
-  修改build-gnuradio免翻墙免炖github本地安装
+title: "修改build-gnuradio免翻墙免炖github本地安装"
 author: paud
 post_date: 2014-03-20 08:38:21
 post_excerpt: ""

@@ -1,8 +1,6 @@
 ---
 ID: 446
-post_title: >
-  HackRF
-  在不同操作系统里的编译安装要点
+title: "HackRF 在不同操作系统里的编译安装要点"
 author: scateu
 post_date: 2014-03-26 13:28:57
 post_excerpt: ""

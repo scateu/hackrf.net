@@ -1,8 +1,6 @@
 ---
 ID: 1106
-post_title: >
-  基于HACKRF的低功耗蓝牙（BTLE）packet
-  sniffer/scanner
+title: "基于HACKRF的低功耗蓝牙（BTLE）packet sniffer/scanner"
 author: jxj
 post_date: 2015-11-04 14:57:42
 post_excerpt: ""

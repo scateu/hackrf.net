@@ -1,6 +1,6 @@
 ---
 ID: 199
-post_title: HackRF One Case Design.
+title: "HackRF One Case Design."
 author: scateu
 post_date: 2014-02-24 16:12:06
 post_excerpt: ""

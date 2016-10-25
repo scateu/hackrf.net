@@ -1,6 +1,6 @@
 ---
 ID: 769
-post_title: 为kalibrate添加HackRF支持
+title: "为kalibrate添加HackRF支持"
 author: scateu
 post_date: 2014-04-28 04:17:48
 post_excerpt: ""

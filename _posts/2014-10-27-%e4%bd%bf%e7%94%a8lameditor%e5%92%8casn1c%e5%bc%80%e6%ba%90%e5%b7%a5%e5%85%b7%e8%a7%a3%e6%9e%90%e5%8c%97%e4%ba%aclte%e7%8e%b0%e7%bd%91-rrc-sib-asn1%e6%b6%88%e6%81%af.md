@@ -1,8 +1,6 @@
 ---
 ID: 951
-post_title: >
-  使用lameditor和asn1c开源工具解析北京LTE现网
-  RRC SIB ASN1消息
+title: "使用lameditor和asn1c开源工具解析北京LTE现网 RRC SIB ASN1消息"
 author: jxj
 post_date: 2014-10-27 15:51:21
 post_excerpt: ""

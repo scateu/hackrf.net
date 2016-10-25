@@ -1,8 +1,6 @@
 ---
 ID: 283
-post_title: >
-  HackRF DAB 广播发射/ HackRF DAB
-  Transmit
+title: "HackRF DAB 广播发射/ HackRF DAB Transmit"
 author: scateu
 post_date: 2014-03-15 01:36:27
 post_excerpt: ""

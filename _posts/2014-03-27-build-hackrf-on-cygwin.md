@@ -1,6 +1,6 @@
 ---
 ID: 466
-post_title: 在Cygwin下编译HackRF
+title: "在Cygwin下编译HackRF"
 author: scateu
 post_date: 2014-03-27 00:45:18
 post_excerpt: ""

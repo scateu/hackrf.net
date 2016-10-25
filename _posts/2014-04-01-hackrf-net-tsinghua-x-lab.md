@@ -1,7 +1,6 @@
 ---
 ID: 536
-post_title: >
-  HackRF.net正式入驻清华x-lab创新基地
+title: "HackRF.net正式入驻清华x-lab创新基地"
 author: scateu
 post_date: 2014-04-01 22:47:38
 post_excerpt: ""

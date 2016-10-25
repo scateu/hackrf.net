@@ -1,6 +1,6 @@
 ---
 ID: 734
-post_title: 'GNURadio教学视频3: Types, Channel Selection &#038; Graphical Sinks'
+title: "GNURadio教学视频3: Types, Channel Selection &#038; Graphical Sinks'"
 author: scateu
 post_date: 2014-04-18 15:34:30
 post_excerpt: ""

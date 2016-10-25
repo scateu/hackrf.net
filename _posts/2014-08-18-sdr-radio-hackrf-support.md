@@ -1,6 +1,6 @@
 ---
 ID: 980
-post_title: SDR-Radio已经支持HackRF
+title: "SDR-Radio已经支持HackRF"
 author: scateu
 post_date: 2014-08-18 09:19:23
 post_excerpt: ""

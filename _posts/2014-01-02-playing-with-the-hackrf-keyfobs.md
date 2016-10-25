@@ -1,6 +1,6 @@
 ---
 ID: 97
-post_title: 'Playing with the HackRF &#8211; Keyfobs'
+title: "'Playing with the HackRF &#8211; Keyfobs'"
 author: scateu
 post_date: 2014-01-02 15:28:33
 post_excerpt: ""

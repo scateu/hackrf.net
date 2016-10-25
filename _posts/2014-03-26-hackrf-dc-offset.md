@@ -1,6 +1,6 @@
 ---
 ID: 445
-post_title: HackRF关于DC Offset直流偏置
+title: "HackRF关于DC Offset直流偏置"
 author: scateu
 post_date: 2014-03-26 17:33:49
 post_excerpt: ""

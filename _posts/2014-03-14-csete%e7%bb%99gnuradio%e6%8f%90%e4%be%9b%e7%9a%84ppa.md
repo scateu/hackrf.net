@@ -1,6 +1,6 @@
 ---
 ID: 269
-post_title: Csete给GNURadio提供的PPA
+title: "Csete给GNURadio提供的PPA"
 author: scateu
 post_date: 2014-03-14 13:35:19
 post_excerpt: ""

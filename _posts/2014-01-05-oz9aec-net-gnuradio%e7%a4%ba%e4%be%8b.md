@@ -1,6 +1,6 @@
 ---
 ID: 156
-post_title: OZ9AEC.net GNURadio示例
+title: "OZ9AEC.net GNURadio示例"
 author: scateu
 post_date: 2014-01-05 03:57:42
 post_excerpt: ""
