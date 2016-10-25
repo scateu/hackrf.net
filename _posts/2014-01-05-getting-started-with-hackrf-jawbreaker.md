@@ -5,8 +5,6 @@ author: scateu
 post_date: 2014-01-05 01:26:30
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.hackrf.net/2014/01/getting-started-with-hackrf-jawbreaker/
 published: true
 duoshuo_thread_id:
   - "1312073613704167438"

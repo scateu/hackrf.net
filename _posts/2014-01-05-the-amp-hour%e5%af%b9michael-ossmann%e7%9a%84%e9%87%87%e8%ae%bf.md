@@ -5,8 +5,6 @@ author: scateu
 post_date: 2014-01-05 03:08:38
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.hackrf.net/2014/01/the-amp-hour%e5%af%b9michael-ossmann%e7%9a%84%e9%87%87%e8%ae%bf/
 published: true
 duoshuo_thread_id:
   - "1312073613704167439"

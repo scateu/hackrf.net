@@ -1,12 +1,12 @@
 ---
 ID: 206
-post_title: 《HackRF与GNURadio入门指南》
+layout: page
+permalink: /HackRF-and-GNURadio-Introduction/
+title: "《HackRF与GNURadio入门指南》"
 author: scateu
 post_date: 2014-03-11 09:40:44
 post_excerpt: ""
 layout: page
-permalink: >
-  http://www.hackrf.net/hackrf%e4%b8%8egnuradio%e5%85%a5%e9%97%a8%e6%8c%87%e5%8d%97/
 published: true
 duoshuo_thread_id:
   - "1312073613704167457"

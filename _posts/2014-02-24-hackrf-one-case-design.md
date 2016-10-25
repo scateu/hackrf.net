@@ -5,8 +5,6 @@ author: scateu
 post_date: 2014-02-24 16:12:06
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.hackrf.net/2014/02/hackrf-one-case-design/
 published: true
 duoshuo_thread_id:
   - "1312073613704167456"

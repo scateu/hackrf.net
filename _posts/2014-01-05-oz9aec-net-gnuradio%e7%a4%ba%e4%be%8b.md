@@ -5,8 +5,6 @@ author: scateu
 post_date: 2014-01-05 03:57:42
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.hackrf.net/2014/01/oz9aec-net-gnuradio%e7%a4%ba%e4%be%8b/
 published: true
 duoshuo_thread_id:
   - "1312073613704167440"

@@ -5,8 +5,6 @@ author: scateu
 post_date: 2013-12-30 18:23:04
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.hackrf.net/2013/12/linux%e7%b3%bb%e7%bb%9f%e4%b8%8a%e6%90%ad%e5%bb%bahackrf%e7%8e%af%e5%a2%83/
 published: true
 duoshuo_thread_id:
   - "1312073613704167435"

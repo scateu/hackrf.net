@@ -1,11 +1,12 @@
 ---
+layout: page
+permalink: /csdn_os_camp_page/
 ID: 943
-post_title: 开源夏令营
+title: "开源夏令营"
 author: scateu
 post_date: 2014-06-23 15:15:15
 post_excerpt: ""
 layout: page
-permalink: http://www.hackrf.net/csdn_os_camp_page/
 published: true
 views:
   - "6511"

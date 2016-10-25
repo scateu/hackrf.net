@@ -1,11 +1,12 @@
 ---
 ID: 25
-post_title: 资源下载
+layout: page
+permalink: /download/
+title: "资源下载"
 author: scateu
 post_date: 2013-12-29 01:22:56
 post_excerpt: ""
 layout: page
-permalink: http://www.hackrf.net/download/
 published: true
 duoshuo_thread_id:
   - "1312073613704167431"

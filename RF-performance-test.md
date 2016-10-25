@@ -1,12 +1,12 @@
 ---
 ID: 38
-post_title: 射频指标测试
+layout: page
+permalink: /RF-performance-test/
+title: "射频指标测试"
 author: scateu
 post_date: 2013-12-29 01:38:13
 post_excerpt: ""
 layout: page
-permalink: >
-  http://www.hackrf.net/%e5%b0%84%e9%a2%91%e6%8c%87%e6%a0%87/
 published: true
 duoshuo_thread_id:
   - "1312073613704167432"

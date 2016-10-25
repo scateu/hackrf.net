@@ -1,12 +1,12 @@
 ---
 ID: 21
-post_title: 应用教程
+layout: page
+permalink: /application-tutorial/
+title: "应用教程"
 author: scateu
 post_date: 2013-12-29 01:21:14
 post_excerpt: ""
 layout: page
-permalink: >
-  http://www.hackrf.net/%e5%ba%94%e7%94%a8/
 published: true
 duoshuo_thread_id:
   - "1312073613704167429"

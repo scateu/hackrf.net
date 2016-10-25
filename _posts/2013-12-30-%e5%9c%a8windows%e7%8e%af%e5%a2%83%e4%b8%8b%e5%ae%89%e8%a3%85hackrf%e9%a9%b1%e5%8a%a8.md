@@ -5,8 +5,6 @@ author: scateu
 post_date: 2013-12-30 10:25:00
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.hackrf.net/2013/12/%e5%9c%a8windows%e7%8e%af%e5%a2%83%e4%b8%8b%e5%ae%89%e8%a3%85hackrf%e9%a9%b1%e5%8a%a8/
 published: true
 duoshuo_thread_id:
   - "1312073613704167434"

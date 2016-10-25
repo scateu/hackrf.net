@@ -5,8 +5,6 @@ author: scateu
 post_date: 2014-01-02 15:28:33
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.hackrf.net/2014/01/playing-with-the-hackrf-keyfobs/
 published: true
 duoshuo_thread_id:
   - "1312073613704167436"

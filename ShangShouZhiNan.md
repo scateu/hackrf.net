@@ -1,12 +1,12 @@
 ---
 ID: 216
-post_title: 上手指南
+layout: page
+permalink: /ShangShouZhiNan/
+title: "上手指南"
 author: scateu
 post_date: 2014-03-13 12:38:38
 post_excerpt: ""
 layout: page
-permalink: >
-  http://www.hackrf.net/%e4%b8%8a%e6%89%8b%e6%8c%87%e5%8d%97/
 published: true
 duoshuo_thread_id:
   - "1312073613704167458"

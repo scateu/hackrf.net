@@ -1,12 +1,12 @@
 ---
 ID: 297
-post_title: HackRF演进计划
+layout: page
+permalink: /HackRF-Evolution-Plan/
+title: "HackRF演进计划"
 author: scateu
 post_date: 2014-03-16 12:31:10
 post_excerpt: ""
 layout: page
-permalink: >
-  http://www.hackrf.net/hackrf%e6%bc%94%e8%bf%9b%e8%ae%a1%e5%88%92/
 published: true
 duoshuo_thread_id:
   - "1312073613704167469"

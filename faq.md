@@ -1,11 +1,12 @@
 ---
 ID: 219
-post_title: FAQ
+layout: page
+permalink: /faq/
+title: "FAQ"
 author: scateu
 post_date: 2014-03-13 13:01:23
 post_excerpt: ""
 layout: page
-permalink: http://www.hackrf.net/faq/
 published: true
 duoshuo_thread_id:
   - "1312073613704167459"

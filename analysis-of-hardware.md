@@ -1,12 +1,12 @@
 ---
+layout: page
+permalink: /analysis-of-hardware/
 ID: 23
-post_title: 硬件分析
+title: "硬件分析"
 author: scateu
 post_date: 2013-12-29 01:21:53
 post_excerpt: ""
 layout: page
-permalink: >
-  http://www.hackrf.net/%e7%a1%ac%e4%bb%b6/
 published: true
 duoshuo_thread_id:
   - "1312073613704167430"
