@@ -14,7 +14,7 @@ views:
 ---
 <strong>功耗测定见<a title="HackRF One功耗测定" href="http://www.hackrf.net/2014/03/hackrf-one-power-consumption/">链接</a></strong>
 <h3>HackRF 的硬件原理</h3>
-<a href="http://www.hackrf.net/wp-content/uploads/2013/12/HackRF_架构.png"><img class="alignnone size-full wp-image-234" alt="HackRF_架构" src="http://www.hackrf.net/wp-content/uploads/2013/12/HackRF_架构.png" /></a>
+![]({{ site.imageurl }}/2013/12/HackRF_架构.png)
 
 硬件主要由以下几部分组成
 <ul>

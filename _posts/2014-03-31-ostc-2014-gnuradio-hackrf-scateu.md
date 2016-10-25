@@ -25,7 +25,11 @@ duoshuo_thread_id:
 
 &nbsp;
 
-并有幸与Perl语言的创始人Larry Wall夫妇合影，并简要向他介绍了HackRF.net社区的情况。![]({{ site.imageurl }}/2014/03/with_larry_wall.jpg"><img class="alignnone size-full wp-image-515" src="http://www.hackrf.net/wp-content/uploads/2014/03/with_larry_wall.jpg" alt="with_larry_wall" width="720" height="540" /></a> <a href="http://www.hackrf.net/wp-content/uploads/2014/03/易拉宝.jpg)
+并有幸与Perl语言的创始人Larry Wall夫妇合影，并简要向他介绍了HackRF.net社区的情况。
+
+![]({{ site.imageurl }}/2014/03/with_larry_wall.jpg)
+
+![]({{ site.imageurl }}/2014/03/易拉宝.jpg)
 
 ![]({{ site.imageurl }}/2014/03/special.csdncms.csdn_.net_OSTC2014.jpg)
 

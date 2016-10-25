@@ -20,7 +20,7 @@ views:
 </ul>
 </li>
 </ul>
-<a href="http://www.hackrf.net/wp-content/uploads/2013/12/HackRF圆圈图.jpg"><img class="alignnone size-full wp-image-232" src="http://www.hackrf.net/wp-content/uploads/2013/12/HackRF圆圈图.jpg" alt="HackRF圆圈图" width="300" /></a>
+![]({{ site.imageurl }}/2013/12/HackRF圆圈图.jpg)
 <ul>
 	<li><a href="http://www.hackrf.net/2014/03/hackrf-dab-%E5%B9%BF%E6%92%AD%E5%8F%91%E5%B0%84-hackrf-dab-transmit/">DAB数字广播</a></li>
 	<li>DVB数字广播 <a href="http://wiki.oz9aec.net/index.php/Simple_DVB_with_Gstreamer_and_GNU_Radio">参考</a></li>
