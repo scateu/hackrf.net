@@ -23,7 +23,7 @@ XMLRPC的意思是XML格式的远程过程调用。
 
 首先，我们搭建如下框图，文件可以在<span class="lang:default decode:true  crayon-inline ">/usr/local/share/gnuradio/examples/grc/xmlrpc/xmlrpc_server.grc</span> 处得到
 
-<a href="http://www.hackrf.net/wp-content/uploads/2014/04/xmrpc_server.png"><img class="alignnone size-full wp-image-713" src="http://www.hackrf.net/wp-content/uploads/2014/04/xmrpc_server.png" alt="xmrpc_server" width="800" height="452" /></a>
+![]({{ site.imageurl }}/2014/04/xmrpc_server.png)
 
 然后添加一个XMLRPC Server模块，监听在本地的1234端口。
 
@@ -56,6 +56,6 @@ for i in range(10):
 
 如果不想写代码，在远程再起一个框图
 
-<a href="http://www.hackrf.net/wp-content/uploads/2014/04/xmlrpc_client.png"><img class="alignnone size-full wp-image-714" src="http://www.hackrf.net/wp-content/uploads/2014/04/xmlrpc_client.png" alt="xmlrpc_client" width="780" height="339" /></a>
+![]({{ site.imageurl }}/2014/04/xmlrpc_client.png)
 
 就可以完成控制了。

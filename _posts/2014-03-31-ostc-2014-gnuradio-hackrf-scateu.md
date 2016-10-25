@@ -21,12 +21,12 @@ duoshuo_thread_id:
 
 <script class="speakerdeck-embed" src="//speakerdeck.com/assets/embed.js" async="" data-id="6beb73e09acc0131dca20e917132b1d3" data-ratio="1.33333333333333"></script>
 
-<a href="http://www.hackrf.net/wp-content/uploads/2014/03/scateu.jpg"><img class="alignnone size-full wp-image-514" src="http://www.hackrf.net/wp-content/uploads/2014/03/scateu.jpg" alt="OSTC-scateu" width="480" height="720" /></a>
+![]({{ site.imageurl }}/2014/03/scateu.jpg)
 
 &nbsp;
 
-并有幸与Perl语言的创始人Larry Wall夫妇合影，并简要向他介绍了HackRF.net社区的情况。<a href="http://www.hackrf.net/wp-content/uploads/2014/03/with_larry_wall.jpg"><img class="alignnone size-full wp-image-515" src="http://www.hackrf.net/wp-content/uploads/2014/03/with_larry_wall.jpg" alt="with_larry_wall" width="720" height="540" /></a> <a href="http://www.hackrf.net/wp-content/uploads/2014/03/易拉宝.jpg"><img class="alignnone size-full wp-image-516" src="http://www.hackrf.net/wp-content/uploads/2014/03/易拉宝.jpg" alt="易拉宝" width="540" height="720" /></a>
+并有幸与Perl语言的创始人Larry Wall夫妇合影，并简要向他介绍了HackRF.net社区的情况。![]({{ site.imageurl }}/2014/03/with_larry_wall.jpg"><img class="alignnone size-full wp-image-515" src="http://www.hackrf.net/wp-content/uploads/2014/03/with_larry_wall.jpg" alt="with_larry_wall" width="720" height="540" /></a> <a href="http://www.hackrf.net/wp-content/uploads/2014/03/易拉宝.jpg)
 
-<a href="http://www.hackrf.net/wp-content/uploads/2014/03/special.csdncms.csdn_.net_OSTC2014.jpg"><img class="alignnone size-full wp-image-517" src="http://www.hackrf.net/wp-content/uploads/2014/03/special.csdncms.csdn_.net_OSTC2014.jpg" alt="special.csdncms.csdn.net_OSTC2014" width="938" height="666" /></a>
+![]({{ site.imageurl }}/2014/03/special.csdncms.csdn_.net_OSTC2014.jpg)
 
 &nbsp;

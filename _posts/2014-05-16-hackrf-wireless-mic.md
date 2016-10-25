@@ -19,11 +19,11 @@ duoshuo_thread_id:
 
 首先抄起无线话筒看了一看，大概确定频率。
 
-<a href="http://www.hackrf.net/wp-content/uploads/2014/05/mic.jpg"><img class="alignnone size-full wp-image-795" src="http://www.hackrf.net/wp-content/uploads/2014/05/mic.jpg" alt="mic" width="480" height="640" /></a>
+![]({{ site.imageurl }}/2014/05/mic.jpg)
 
 然后搭起实验环境，请一只萌妹子拿起话筒说了一段话。
 
-<a href="http://www.hackrf.net/wp-content/uploads/2014/05/mic_overview.jpg"><img class="alignnone size-full wp-image-796" src="http://www.hackrf.net/wp-content/uploads/2014/05/mic_overview.jpg" alt="mic_overview" width="640" height="480" /></a>
+![]({{ site.imageurl }}/2014/05/mic_overview.jpg)
 
 然后就while true了一下
 

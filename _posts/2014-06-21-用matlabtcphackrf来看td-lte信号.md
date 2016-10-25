@@ -17,7 +17,7 @@ duoshuo_thread_id:
 
 首先用gnuradio-companion建立如下grc：
 
-<a href="http://www.hackrf.net/wp-content/uploads/2014/06/0.png"><img class="alignnone size-full wp-image-938" src="http://www.hackrf.net/wp-content/uploads/2014/06/0.png" alt="0" width="467" height="195" /></a>
+![]({{ site.imageurl }}/2014/06/0.png)
 
 这里osmocom Source源模块（用来接收HACKRF usb传来的数据）设置为：
 
@@ -54,7 +54,7 @@ while(true)
 end</pre>
 运行以上代码，如果一切正常，代表Gnuradio正在运行的小窗口应该立刻出现，OOOO应该停止打印，而且MATLAB会弹出实时的LTE信号在时域上的能量包络。根据显示，可以判断出TD-LTE上下行配置，PBCH位置，以及每个slot中两个包含CRS的ofdm符号的位置，因为HACKRF时钟和基站一般存在微小误差，因此看到的时域信号应该是在向左或者向右滑动的，取决于你的HACKRF时钟偏快还是偏慢。抓取其中一次的显示如下图：
 
-<a href="http://www.hackrf.net/wp-content/uploads/2014/06/1.png"><img class="alignnone size-full wp-image-939" src="http://www.hackrf.net/wp-content/uploads/2014/06/1.png" alt="1" width="1099" height="437" /></a>
+![]({{ site.imageurl }}/2014/06/1.png)
 
 上图总共是10ms TD-LTE无线帧的时域能量分布。大约横轴0.1～0.8，1.1～1.8的地方为基站下行信号，其他时间是留给上行的时间，从上下行配比来看应该是典型的TD-LTE上下行配置2。0.6～0.8之间应该是PBCH和SSS、PSS，靠近1.8的地方应该是间隔5ms的另外一对SSS、PSS。从大约0.1开始每相邻的两个突起应该是1个时隙内包含CRS的两个OFDM符号的位置，即相邻四个突起为1ms子帧。
 

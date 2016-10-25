@@ -15,7 +15,7 @@ duoshuo_thread_id:
 
 首先增加5个 slider，关于找零件，上一节已经说过了，按下图所示进行设置，这次我们要引入变量概念。variable,程序员熟悉的。
 
-<a href="http://www.hackrf.net/wp-content/uploads/2014/03/2014-03-17-214154的屏幕截图.png"><img class="alignnone size-medium wp-image-344" alt="2014-03-17 21:41:54的屏幕截图" src="http://www.hackrf.net/wp-content/uploads/2014/03/2014-03-17-214154的屏幕截图-300x179.png" width="300" height="179" /></a>
+![]({{ site.imageurl }}/2014/03/2014-03-17-214154的屏幕截图.png)
 
 由于时间关系，以下摘自网络：
 

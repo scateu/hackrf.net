@@ -19,17 +19,17 @@ HackRF One 一共有3个SMA接头。
 
 我们使用示波器接到CLKOUT上，可以看到输出的10MHz时钟同步信号如下图。
 
-<a href="http://www.hackrf.net/wp-content/uploads/2014/03/10MHz.jpeg"><img class="alignnone size-full wp-image-455" alt="10MHz" src="http://www.hackrf.net/wp-content/uploads/2014/03/10MHz.jpeg" width="773" height="580" /></a>
+![]({{ site.imageurl }}/2014/03/10MHz.jpeg)
 
 &nbsp;
 
 这个信号是由Si5351B时钟芯片给出的，有了这个信号，我们可以对多个HackRF One进行同步，从而完成高级的数字通信应用，如MIMO等。
 <h2>CLKOUT接到频谱仪的REF IN</h2>
 在没有接10MHz同步的时候，有频偏
-<a href="http://www.hackrf.net/wp-content/uploads/2014/03/INT_REF.jpg"><img class="alignnone size-full wp-image-490" alt="INT_REF" src="http://www.hackrf.net/wp-content/uploads/2014/03/INT_REF.jpg" width="980" height="735" /></a>
+![]({{ site.imageurl }}/2014/03/INT_REF.jpg)
 
 接了10MHz同步之后：
-<a href="http://www.hackrf.net/wp-content/uploads/2014/03/EXT_REF.jpg"><img class="alignnone size-full wp-image-489" alt="EXT_REF" src="http://www.hackrf.net/wp-content/uploads/2014/03/EXT_REF.jpg" width="980" height="735" /></a>
+![]({{ site.imageurl }}/2014/03/EXT_REF.jpg)
 
 参考时钟芯片Si5351C官方编程手册<a href="http://www.silabs.com/Support%20Documents/TechnicalDocs/AN619.pdf">AN619</a>可知：Si5351C的时钟源可选择外部石英晶体或CMOS电平的外部时钟信号。
 

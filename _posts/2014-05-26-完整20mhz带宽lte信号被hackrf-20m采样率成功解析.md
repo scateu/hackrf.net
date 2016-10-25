@@ -37,7 +37,7 @@ HACKRF设置采样率19.2M；M=8；N=5；最终得到30.72M采样率。
 
 2360MHz解析出来的TD-LTE 20MHz时频格（纵轴子载波，横轴OFDM符号）。这是一帧10ms信号。TDD模式，帧号310、上下行配置2、物理层小区ID 30、端口数1、Normal CP、PHICH duration Normal、PHICH resource 1（参见图标题）。图中可明显看到CRS、PSS、SSS、PBCH、PDCCH和子帧5上的一个PDSCH（SIB1）。
 
-<a href="http://www.hackrf.net/wp-content/uploads/2014/05/grids1.png"><img class="alignnone size-full wp-image-836" src="http://www.hackrf.net/wp-content/uploads/2014/05/grids1.png" alt="TD-LTE 2360MHz grids" width="1490" height="880" /></a>
+![]({{ site.imageurl }}/2014/05/grids1.png)
 
 2360MHz MATLAB的一些解调输出信息：
 
@@ -49,7 +49,7 @@ No.0 8CCE: Localized VRB from RB0 to RB6 MCS-2 HARQ-0 NEWind-0 RV-1 TPC-1 DAI-0
 
 以上信息表明在子帧5上检测到一个PDCCH（通过SI-RNTI校验），和时频格相符合。这是一个format1A的DCI指示SIB1的位置，根据这个指示，找到SIB1所在的PDSCH资源格，画出均衡后的星座图：
 
-<a href="http://www.hackrf.net/wp-content/uploads/2014/05/SIB1-constellation.png"><img class="alignnone size-full wp-image-837" src="http://www.hackrf.net/wp-content/uploads/2014/05/SIB1-constellation.png" alt="SIB1-constellation" width="560" height="420" /></a>
+![]({{ site.imageurl }}/2014/05/SIB1-constellation.png)
 
 &nbsp;
 
@@ -57,7 +57,7 @@ No.0 8CCE: Localized VRB from RB0 to RB6 MCS-2 HARQ-0 NEWind-0 RV-1 TPC-1 DAI-0
 
 2585MHz解析出来的TD-LTE 20MHz时频格。这是一帧10ms信号。TDD模式，帧号900、上下行配置2、物理层小区ID 216、端口数2、Normal CP、PHICH duration Normal、PHICH resource 1（参见图标题）。图中可明显看到CRS、PSS、SSS、PBCH、PDCCH和子帧4、5上的PDSCH。
 
-<a href="http://www.hackrf.net/wp-content/uploads/2014/05/grids-2585.png"><img class="alignnone size-full wp-image-838" src="http://www.hackrf.net/wp-content/uploads/2014/05/grids-2585.png" alt="grids-2585" width="1489" height="873" /></a>
+![]({{ site.imageurl }}/2014/05/grids-2585.png)
 
 &nbsp;
 

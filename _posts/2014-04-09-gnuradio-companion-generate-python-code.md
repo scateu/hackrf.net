@@ -15,7 +15,7 @@ duoshuo_thread_id:
 
 注意，在这里我们把Options里的ID改为了audio_test。
 
-<a href="http://www.hackrf.net/wp-content/uploads/2014/04/a.png"><img class="alignnone size-full wp-image-607" src="http://www.hackrf.net/wp-content/uploads/2014/04/a.png" alt="audio-fft-grc" width="417" height="390" /></a>
+![]({{ site.imageurl }}/2014/04/a.png)
 
 然后点击运行按钮左边的Generate the flow graph按钮，就会在当前目录生成audio_test.py
 <pre class="nums:true lang:default decode:true">#!/usr/bin/env python

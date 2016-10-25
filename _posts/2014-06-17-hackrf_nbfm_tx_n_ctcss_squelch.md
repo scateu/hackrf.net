@@ -26,10 +26,10 @@ NBFM和WBFM最大的区别是Max Deviation(最大频偏)不同。
 
 闲言少叙，直接上框图。在WBFM的框图基础上，其它的部分不需要改动，只把WBFM Transmit模块换成NBFM Transmit即可。
 
-<a href="http://www.hackrf.net/wp-content/uploads/2014/06/nbfm_tx.png"><img class="alignnone size-full wp-image-925" src="http://www.hackrf.net/wp-content/uploads/2014/06/nbfm_tx.png" alt="nbfm_tx" width="789" height="479" /></a>
+![]({{ site.imageurl }}/2014/06/nbfm_tx.png)
 以上框图把jen_ai_marre.wav文件(双声道, 16bit量化, 44.1kHz采样率)以NBFM方式发射到441.175MHz上。此时拿起一只对讲机，调谐到上述频点，便可以听到音乐了。   <a href="https://github.com/scateu/HackRF_Examples/blob/master/nbfm_tx/nbfm_tx_hackrf.grc">grc框图下载</a>
 
-<a href="http://www.hackrf.net/wp-content/uploads/2014/06/audio_nbfm.png"><img class="alignnone size-full wp-image-927" src="http://www.hackrf.net/wp-content/uploads/2014/06/audio_nbfm.png" alt="audio_nbfm" width="795" height="516" /></a> 而这一个框图，只是简单的将WAV Source变成Audio Source，便可以将电脑麦克风的声音以NBFM的方式转发到对讲机上了。<a href="https://github.com/scateu/HackRF_Examples/blob/master/nbfm_tx/audio_nbfm_tx_hackrf.grc"> grc框图下载</a>
+![]({{ site.imageurl }}/2014/06/audio_nbfm.png)
 
 顺便提一句，实测发现，以NBFM方式发射的覆盖范围比WBFM更远，想一想便能理解，窄带宽可以使得功率更加密集，发射效率更高。
 
@@ -49,6 +49,6 @@ NBFM和WBFM最大的区别是Max Deviation(最大频偏)不同。
 
 然后拿起手台设置好亚音模式(在这里设置为67Hz)后测试，果然在不加亚音的时候，手台不会响，只会提示有信号，加上67Hz亚音后，亚音静噪被打开，可以听到声音了。
 
-<a href="http://www.hackrf.net/wp-content/uploads/2014/06/nbfm_tx_ctcss.png"><img class="alignnone size-full wp-image-926" src="http://www.hackrf.net/wp-content/uploads/2014/06/nbfm_tx_ctcss.png" alt="nbfm_tx_ctcss" width="974" height="509" /></a>
+![]({{ site.imageurl }}/2014/06/nbfm_tx_ctcss.png)
 
 <a href="https://github.com/scateu/HackRF_Examples/blob/master/nbfm_tx/nbfm_tx_hackrf_ctcss.grc">grc框图下载</a>

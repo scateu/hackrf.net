@@ -13,7 +13,7 @@ duoshuo_thread_id:
 ---
 well, just keep it simple and stupid，直接上图了
 
-<a href="http://www.hackrf.net/wp-content/uploads/2014/03/2014-03-17-181724的屏幕截图.png"><img class="alignnone size-medium wp-image-337" alt="2014-03-17 18:17:24的屏幕截图" src="http://www.hackrf.net/wp-content/uploads/2014/03/2014-03-17-181724的屏幕截图-300x172.png" width="300" height="172" /></a>
+![]({{ site.imageurl }}/2014/03/2014-03-17-181724的屏幕截图.png)
 
 本菜对照图片给各位菜菜们讲解其原理，要搭成以上流图，请执行以下步骤
 
@@ -31,7 +31,7 @@ well done, so far so good! 下面来测试我们的劳动成果，
 
 首先generate the flow graph(F5)，然后execute(F6),即可看到和听到我们的广播了，okay, show me!
 
-<a href="http://www.hackrf.net/wp-content/uploads/2014/03/2014-03-17-182035的屏幕截图.png"><img class="alignnone size-medium wp-image-338" alt="2014-03-17 18:20:35的屏幕截图" src="http://www.hackrf.net/wp-content/uploads/2014/03/2014-03-17-182035的屏幕截图-300x158.png" width="300" height="158" /></a>
+![]({{ site.imageurl }}/2014/03/2014-03-17-182035的屏幕截图.png)
 
 &nbsp;
 

@@ -27,7 +27,7 @@ DRM(Digital Radio Modiale)，用于短波和超短波波段(HF和VHF)，实现�
 </ol>
 另外，gr-drm项目参加了2012年度的Google Summer of Code活动，最近作者更新之后，已经支持GNURadio 3.7了。
 
-<a href="http://www.hackrf.net/wp-content/uploads/2014/03/drm.png"><img class="alignnone size-full wp-image-401" alt="gr-drm" src="http://www.hackrf.net/wp-content/uploads/2014/03/drm.png" width="1230" height="690" /></a>
+![]({{ site.imageurl }}/2014/03/drm.png)
 <h2>安装注意事项</h2>
 <pre>
 git clone http://github.com/kit-cel/gr-drm

@@ -23,7 +23,7 @@ duoshuo_thread_id:
 
 youtube视频 (<a href="https://youtu.be/MqX74sk-sa4">https://youtu.be/MqX74sk-sa4</a>))
 
-<a href="http://www.hackrf.net/wp-content/uploads/2015/08/adsb-btle-air-relay.png"><img class="alignnone size-full wp-image-1092" src="http://www.hackrf.net/wp-content/uploads/2015/08/adsb-btle-air-relay.png" alt="adsb-btle-air-relay" width="1058" height="793" /></a>
+![]({{ site.imageurl }}/2015/08/adsb-btle-air-relay.png)
 
 两种尝试我的固件的方法:
 <ul>

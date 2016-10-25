@@ -29,7 +29,7 @@ duoshuo_thread_id:
 
 我们可以使用GNURadio提供的Vector Source模块。
 
-<a href="http://www.hackrf.net/wp-content/uploads/2014/04/simple_generate.grc_.png"><img alt="simple_generate.grc" src="http://www.hackrf.net/wp-content/uploads/2014/04/simple_generate.grc_.png" width="843" height="357" /></a>
+![]({{ site.imageurl }}/2014/04/simple_generate.grc_.png)
 
 我们在Vector Source里，填入
 <pre class="lang:default decode:true">(1,1,1,0,1,1,1,0,1,1,1,0,1,1,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0)</pre>
@@ -39,7 +39,7 @@ duoshuo_thread_id:
 <h3>测试</h3>
 接着，我们可以连接WX Scope Sink来测试一下。
 
-<a href="http://www.hackrf.net/wp-content/uploads/2014/04/simple_generated_scope_plot.png"><img alt="simple_generated_scope_plot" src="http://www.hackrf.net/wp-content/uploads/2014/04/simple_generated_scope_plot.png" width="780" height="486" /></a>
+![]({{ site.imageurl }}/2014/04/simple_generated_scope_plot.png)
 <h3>HackRF 发射</h3>
 接上osmocom sink，将信号通过HackRF发出，设置中心频率为27MHz即可。
 

@@ -26,4 +26,4 @@ duoshuo_thread_id:
 <h2>参考</h2>
 <a href="http://gnuradio.org/redmine/projects/gnuradio/wiki/GNURadioCompanion">http://gnuradio.org/redmine/projects/gnuradio/wiki/GNURadioCompanion</a>
 
-<a href="http://www.hackrf.net/wp-content/uploads/2014/04/grc-icon-256.png"><img class="alignnone size-full wp-image-719" alt="grc-icon-256" src="http://www.hackrf.net/wp-content/uploads/2014/04/grc-icon-256.png" width="256" height="256" /></a>
+![]({{ site.imageurl }}/2014/04/grc-icon-256.png)

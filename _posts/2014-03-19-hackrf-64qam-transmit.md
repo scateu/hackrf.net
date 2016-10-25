@@ -11,7 +11,7 @@ views:
 duoshuo_thread_id:
   - "1312073613704167475"
 ---
-<a href="http://www.hackrf.net/wp-content/uploads/2014/03/64QAM.png"><img class="alignnone size-full wp-image-376" alt="64QAM" src="http://www.hackrf.net/wp-content/uploads/2014/03/64QAM.png" width="829" height="431" /></a>
+![]({{ site.imageurl }}/2014/03/64QAM.png)
 
 &nbsp;
 
@@ -34,4 +34,4 @@ duoshuo_thread_id:
 
 &nbsp;
 
-<a href="http://www.hackrf.net/wp-content/uploads/2014/03/89600_64QAM.png"><img class="alignnone size-full wp-image-259" alt="89600_64QAM" src="http://www.hackrf.net/wp-content/uploads/2014/03/89600_64QAM.png" /></a>
+![]({{ site.imageurl }}/2014/03/89600_64QAM.png)

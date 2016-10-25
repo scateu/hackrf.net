@@ -11,7 +11,7 @@ views:
 duoshuo_thread_id:
   - "1312073613704167502"
 ---
-<a href="http://www.hackrf.net/wp-content/uploads/2014/04/a.jpg"><img src="http://www.hackrf.net/wp-content/uploads/2014/04/a.jpg" alt="CDMA-gqrx" width="600" height="339" class="alignnone size-full wp-image-726" /></a>
+![]({{ site.imageurl }}/2014/04/a.jpg)
 
 
 CDMA下行870～880MHz

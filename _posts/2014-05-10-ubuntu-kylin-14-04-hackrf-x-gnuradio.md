@@ -21,4 +21,4 @@ duoshuo_thread_id:
 
 &nbsp;
 
-<a href="http://www.hackrf.net/wp-content/uploads/2014/05/UbuntuKylin_GNURadio_Scateu.png"><img class="alignnone size-full wp-image-802" src="http://www.hackrf.net/wp-content/uploads/2014/05/UbuntuKylin_GNURadio_Scateu.png" alt="UbuntuKylin_GNURadio_Scateu" width="550" height="331" /></a>
+![]({{ site.imageurl }}/2014/05/UbuntuKylin_GNURadio_Scateu.png)

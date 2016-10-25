@@ -67,7 +67,7 @@ GNURadio默认提供的OFDM调制解调模块见下面的列表。
 
 下图是ofdm_loopback.grc，实现了一个简单的OFDM回环。
 
-<a href="http://www.hackrf.net/wp-content/uploads/2014/03/ofdm_loopback.grc_.png"><img class="alignnone size-full wp-image-369" alt="ofdm_loopback.grc" src="http://www.hackrf.net/wp-content/uploads/2014/03/ofdm_loopback.grc_.png" width="882" height="720" /></a>
+![]({{ site.imageurl }}/2014/03/ofdm_loopback.grc_.png)
 
 更详细的示例可以参见/usr/local/share/gnuradio/examples/digital/ofdm/里的其它框图。
 
