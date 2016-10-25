@@ -1,6 +1,5 @@
 ---
 ID: 219
-layout: page
 permalink: /faq/
 title: "FAQ"
 author: scateu

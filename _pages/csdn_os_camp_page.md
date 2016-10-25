@@ -1,5 +1,4 @@
 ---
-layout: page
 permalink: /csdn_os_camp_page/
 ID: 943
 title: "开源夏令营"

@@ -1,6 +1,5 @@
 ---
 ID: 25
-layout: page
 permalink: /download/
 title: "资源下载"
 author: scateu

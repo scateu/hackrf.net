@@ -1,6 +1,5 @@
 ---
 ID: 297
-layout: page
 permalink: /HackRF-Evolution-Plan/
 title: "HackRF演进计划"
 author: scateu

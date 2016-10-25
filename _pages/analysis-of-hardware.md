@@ -1,5 +1,4 @@
 ---
-layout: page
 permalink: /analysis-of-hardware/
 ID: 23
 title: "硬件分析"

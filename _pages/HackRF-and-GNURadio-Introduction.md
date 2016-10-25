@@ -1,6 +1,5 @@
 ---
 ID: 206
-layout: page
 permalink: /HackRF-and-GNURadio-Introduction/
 title: "《HackRF与GNURadio入门指南》"
 author: scateu

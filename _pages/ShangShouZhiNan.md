@@ -1,6 +1,5 @@
 ---
 ID: 216
-layout: page
 permalink: /ShangShouZhiNan/
 title: "上手指南"
 author: scateu

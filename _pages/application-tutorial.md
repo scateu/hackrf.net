@@ -1,6 +1,5 @@
 ---
 ID: 21
-layout: page
 permalink: /application-tutorial/
 title: "应用教程"
 author: scateu

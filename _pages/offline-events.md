@@ -1,6 +1,5 @@
 ---
 ID: 778
-layout: page
 permalink: /offline-events/
 title: "线下活动"
 author: scateu

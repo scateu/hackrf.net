@@ -1,6 +1,5 @@
 ---
 ID: 38
-layout: page
 permalink: /RF-performance-test/
 title: "射频指标测试"
 author: scateu

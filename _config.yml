@@ -17,3 +17,6 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
+
+# _pages
+include: ['_pages']
